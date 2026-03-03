@@ -45,12 +45,11 @@ MISApplication — это приложение для записи людей н
 
 ## Скриншоты
 ![Регистратура/Госпитализация](https://github.com/user-attachments/assets/4d7b862c-deb4-4234-b6d9-bc93f023d8c3)
-![Авторизация]<img width="830" height="467" alt="image" src="https://github.com/user-attachments/assets/27593b65-01e4-4a64-8328-383143dc5c20" />
-![Приём]<img width="838" height="472" alt="image" src="https://github.com/user-attachments/assets/70f4366b-0b3d-4b62-bdf0-4b0dc34078fe" />
+![Авторизация](https://github.com/user-attachments/assets/27593b65-01e4-4a64-8328-383143dc5c20)
+![Приём](https://github.com/user-attachments/assets/70f4366b-0b3d-4b62-bdf0-4b0dc34078fe)
 
 
 
 ## Контакты
 Автор: Илья (IlyaRx)
 GitHub: https://github.com/IlyaRx
-Почта: ilyakiy41@gmail.com
